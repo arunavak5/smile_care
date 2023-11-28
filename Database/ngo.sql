@@ -31,7 +31,7 @@ CREATE TABLE `donation` (
   `id` int(11) NOT NULL,
   `name` varchar(255) NOT NULL,
   `email` varchar(255) NOT NULL,
-  `phone` int(15) NOT NULL,
+  `phone` varchar(15) NOT NULL,
   `amount` int(255) NOT NULL,
   `payment_id` varchar(255) NOT NULL,
   `payment_status` varchar(255) NOT NULL,
@@ -43,7 +43,7 @@ CREATE TABLE `donation` (
 --
 
 INSERT INTO `donation` (`id`, `name`, `email`, `phone`, `amount`, `payment_id`, `payment_status`, `added_on`) VALUES
-(1, 'Pruthviraj Rajput', 'pruthvirajrajput575@gmail.com', 2147483647, 123, 'pay_HwTe2Jz4bE5FAn', 'Complete', '2021-09-12 07:50:00');
+(1, 'Pruthviraj Rajput', 'pruthvirajrajput575@gmail.com', '2147483647', 123, 'pay_HwTe2Jz4bE5FAn', 'Complete', '2021-09-12 07:50:00');
 
 --
 -- Indexes for dumped tables

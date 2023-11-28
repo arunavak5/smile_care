@@ -53,7 +53,7 @@
             align-items: center;
         }
         .border{
-            border:2px solid green;
+            border:2px solid  #4f3222;
             padding: 50px 70px;
             border-radius: 8px;
         }
@@ -62,12 +62,13 @@
         }
         .heading .logo a{
             font-size:35px;
-            color:#014d22;
+            color:#4f3222;
             font-weight:700;
+            font-family: 'Lobster', cursive;
         }
         .heading .logo h3{
             margin-top:8px;
-            color:##31573e;
+            color: #4f3222;
             font-weight:700;
         }
         .d-flex{
@@ -85,19 +86,19 @@
         .donationSlipDody .donate_info_heading ul li{
             padding-bottom:5px;
             font-size:18px;
-            color:#064718;
+            color:#4f3222;
             font-weight:500;
         }
         .donationSlipDody .donate_info ul li{
             padding-bottom:5px;
             font-size:18px;
-            color:#2C3E50;
+            color:#4f3222;
             padding:0px 0px 5px 10px;
             font-weight:700;
         }
         .footer{
             margin-top:25px;
-            border-top:1px solid #1ff068;
+            border-top:1px solid #4f3222;
             padding:25px;
         }
         .footer .logo{
@@ -105,7 +106,7 @@
         }
         .footer .logo a{
             font-size:25px;
-            color:#1ff068;
+            color:#4f3222;
             font-weight:700;
         }
         .footer .logo p {
@@ -113,7 +114,7 @@
             color: #
         }
         .footer .logo p  i{
-            color:#1ff068;
+            color:#4f3222;
         }
         .footer .logo p a{
             font-size:18px;
@@ -124,7 +125,7 @@
         }
         .print .btn{
             padding:10px;
-            background-color:#019410;
+            background-color:#4f3222;
             color:#FFFFFF;
             border:none;
             outline:none;
@@ -144,7 +145,7 @@
             <div class="border">
                 <div class="heading">
                     <div class="logo">
-                        <a href="index.php"><i class="fas fa-hands-helping"></i> <span>SMILE @ CHILD</span></a>
+                        <a href="index.php"> <span>SMILE @ CHILD</span></a>
                         <h3>Thank You For Your Constribution !</h3>
                     </div>
                 </div>
@@ -214,7 +215,7 @@
                 </div>
                 <div class="footer">
                     <div class="logo">
-                        <p><a href="#">https://ngo.com</a></p>
+                        <p><a href="index.php">https://www.smileachild.org</a></p>
                         <p><i class="fas fa-map-marker-alt"></i> <span>12, Pune, Maharastra, India</span></p>
                         <p><i class="fas fa-phone-volume"></i> <span>+91 0000 00000</span></p>
                         <p><i class="far fa-envelope"></i> <span>example@ngo.com</span></p>

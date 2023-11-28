@@ -3,7 +3,7 @@
             <div class="row-footer d-flex">
                 <div class="footer-logo">
                     <div class="nav-brand">
-                        <a href="index.php"><i class="fas fa-hands-helping"></i> <span>NGO</span></a>
+                        <a href="index.php"><span>SMILE @ CARE</span></a>
                     </div>
                     <ul class="d-flex">
                         <li>
@@ -17,26 +17,7 @@
                         </li>
                     </ul>
                 </div>
-                <div class="footer-iteam">
-                    <h2>Our Pagges</h2>
-                    <ul>
-                        <li>
-                            <a href="index.php">Home</a>
-                        </li>
-                        <li>
-                            <a href="#about">About</a>
-                        </li>
-                        <li>
-                            <a href="#volenteres">Our Volunteer</a>
-                        </li>
-                        <li>
-                            <a href="#contact">Contact</a>
-                        </li>
-                        <li>
-                            <a href="donate.php">Donate Now</a>
-                        </li>
-                    </ul>
-                </div>
+                
                 <div class="footer-contact">
                     <h2>Contact Now</h2>
                     <ul>
@@ -53,21 +34,53 @@
                 </div>
             </div>
             <div class="row-developer">
-                <p>Designed By</p>
-                <a href="#"><span>Pruthviraj Rajput</span> <br>(Web Development Intern At <span>Ansr Coach</span>)</a>
+               <h2> <p>Designed By<br><br></p> </h2>
+                <div class="dev_container">
+                
+                <div class="dev_name">
+                <a href="#"><span>Darksha Khanum</span> <br>Student of M.Sc. in Computer Science <BR><span>Techno India (Hooghly Campus)</span></a>
                 <ul class="d-flex">
+                    
                     <li>
-                        <a target="_blank" href="https://pruthviraj-rajput-portfolio.rf.gd/"><i class="far fa-handshake"></i></a>
+                        <a target="_blank" href="https://github.com/Darkshakhanum16"><i class="fab fa-github"></i></a>
                     </li>
                     <li>
-                        <a target="_blank" href="https://github.com/pruthvi7384"><i class="fab fa-github"></i></a>
-                    </li>
-                    <li>
-                        <a target="_blank" href="https://www.linkedin.com/in/pruthviraj-rajput-131ba61b4/"><i class="fab fa-linkedin-in"></i></a>
+                        <a target="_blank" href="https://www.linkedin.com/in/darksha-khanum-437682261/"><i class="fab fa-linkedin-in"></i></a>
                     </li>
                 </ul>
+                </div>
+
+                <div class="dev_name">
+                <a href="#"><span>Subhajit Mondal</span> <br>Student of M.Sc. in Computer Science <br><span>Techno India (Hooghly Campus)</span></a>
+                <ul class="d-flex">
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/subhajitcode0"><i class="fab fa-github"></i></a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/subhajit-mondal-287761170/"><i class="fab fa-linkedin-in"></i></a>
+                    </li>
+                </ul>
+                </div>
+
+                <div class="dev_name">
+                <a href="#"><span>Arunava Kundu</span> <br>Student of M.Sc. in Computer Science <BR><span>Techno India (Hooghly Campus)</span></a>
+                <ul class="d-flex">
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/arunavak5"><i class="fab fa-github"></i></a>
+                    </li>
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/arunava-kundu-64bb79237/"><i class="fab fa-linkedin-in"></i></a>
+                    </li>
+                </ul>
+                </div> 
+                
+
             </div>
+            
         </div>
+        
     <!--X- Footer Section -X-->
 
     <!-- JavaScript file -->
