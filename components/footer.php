@@ -22,7 +22,7 @@
                     <h2>Contact Now</h2>
                     <ul>
                         <li>
-                            <i class="fas fa-map-marker-alt"></i> <span>12, Pune, Maharastra, India</span>
+                            <i class="fas fa-map-marker-alt"></i> <span>West Bengal, India</span>
                         </li>
                         <li>
                             <i class="fas fa-phone-volume"></i> <span>+91 0000 00000</span>

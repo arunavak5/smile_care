@@ -136,7 +136,7 @@
         <div class="d-flex feedback-row">
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p1.jpg" alt="">
+                    <img src="assets/female.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Kavita Joshi</h2>
@@ -145,7 +145,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p2.jpg" alt="">
+                    <img src="assets/male.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Sanjay Verma</h2>
@@ -154,7 +154,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p3.jpg" alt="">
+                    <img src="assets/female.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Radhika Kapoor</h2>
@@ -163,7 +163,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p4.jpg" alt="">
+                    <img src="assets/male.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Rahul Sharma</h2>
@@ -172,7 +172,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p1.jpg" alt="">
+                    <img src="assets/female.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Pooja Mehta</h2>
@@ -203,7 +203,7 @@
         <div class="d-flex feedback-row">
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p1.jpg" alt="">
+                    <img src="assets/male.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Aarav Sharma</h2>
@@ -223,7 +223,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p2.jpg" alt="">
+                    <img src="assets/female.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Priya Patel</h2>
@@ -243,7 +243,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p3.jpg" alt="">
+                    <img src="assets/female.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Ananya Malik</h2>
@@ -263,7 +263,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p4.jpg" alt="">
+                    <img src="assets/male.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2> Rajan Kapoor</h2>
@@ -283,7 +283,7 @@
             </div>
             <div class="feedback-card">
                 <div class="img">
-                    <img src="assets/p1.jpg" alt="">
+                    <img src="assets/male.jpg" alt="">
                 </div>
                 <div class="info">
                     <h2>Arjun Desai</h2>
@@ -315,7 +315,7 @@
             <div class="col-6">
                 <div class="info-conatct">
                     <i class="fas fa-map-marker-alt"></i>
-                    <p>12, West Bengal, India</p>
+                    <p>West Bengal, India</p>
                 </div>
                 <div class="d-flex other-c">
                     <div class="contact-info-d ">

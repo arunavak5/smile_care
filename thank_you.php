@@ -216,8 +216,8 @@
                 <div class="footer">
                     <div class="logo">
                         <p><a href="index.php">https://www.smileachild.org</a></p>
-                        <p><i class="fas fa-map-marker-alt"></i> <span>12, Pune, Maharastra, India</span></p>
-                        <p><i class="fas fa-phone-volume"></i> <span>+91 0000 00000</span></p>
+                        <p><i class="fas fa-map-marker-alt"></i> <span> West Bengal, India</span></p>
+                        <p><i class="fas fa-phone-volume"></i> <span>+91 XXXXXXXXXX</span></p>
                         <p><i class="far fa-envelope"></i> <span>example@ngo.com</span></p>
                     </div>
                 </div>
